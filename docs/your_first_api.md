@@ -83,7 +83,7 @@ INFO  org.eclipse.jetty.server.Server - Started @85814ms
 
 ## A Personal Inventory System
 
-Let's build a system to handle basic user accounts and can track items
+Let's build a system to handle basic user accounts and one that can track items
 they own.
 
 With this simple goal statement, we can already envision some pieces
